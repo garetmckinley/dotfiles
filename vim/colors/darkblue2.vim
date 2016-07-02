@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/darkblue2.vim

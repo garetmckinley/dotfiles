@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/chela_light.vim

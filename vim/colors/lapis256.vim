@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/lapis256.vim

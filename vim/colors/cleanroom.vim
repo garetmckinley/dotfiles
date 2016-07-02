@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/cleanroom.vim

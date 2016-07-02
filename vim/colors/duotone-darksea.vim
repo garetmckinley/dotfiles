@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/duotone-darksea.vim

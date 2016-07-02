@@ -1,0 +1,6 @@
+[submodule "vim/bundle/colorschemes"]
+	path = vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "irssi/themes"]
+	path = irssi/themes
+	url = https://github.com/irssi-import/themes.git

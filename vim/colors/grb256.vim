@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/grb256.vim

@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/lizard256.vim

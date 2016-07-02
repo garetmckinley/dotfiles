@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/leglight2.vim

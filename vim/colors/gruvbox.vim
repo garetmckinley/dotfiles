@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/gruvbox.vim

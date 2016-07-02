@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/wasabi256.vim

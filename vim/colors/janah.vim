@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/janah.vim

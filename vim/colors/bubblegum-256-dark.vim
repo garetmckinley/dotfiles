@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/bubblegum-256-dark.vim

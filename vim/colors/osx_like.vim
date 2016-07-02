@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/osx_like.vim

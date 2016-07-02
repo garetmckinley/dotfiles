@@ -1,0 +1,1 @@
+bundle/colorschemes/colors/beauty256.vim
