@@ -38,3 +38,5 @@ antigen theme bureau
 export BULLETTRAIN_RUBY_SHOW=false
 
 antigen apply
+
+eval "$(pyenv virtualenv-init -)"
