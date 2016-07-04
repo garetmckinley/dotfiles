@@ -5,9 +5,15 @@ antigen use oh-my-zsh
 
 antigen bundle git
 antigen bundle heroku
+antigen bundle osx
+antigen bundle nyan
 antigen bundle nvm
 antigen bundle rvm
+antigen bundle python
 antigen bundle pyenv
+antigen bundle pip
+antigen bundle docker
+antigen bundle sudo
 antigen bundle command-not-found
 
 
